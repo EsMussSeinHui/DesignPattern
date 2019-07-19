@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b4afa00-b7c9-45d6-adf8-42e6c1bcacfd" name="Default Changelist" comment="" />
+    <list default="true" id="1b4afa00-b7c9-45d6-adf8-42e6c1bcacfd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/model/META-INF/model.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/model/com/AbstractFactory/abstractF/Abstractfactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/model/com/AbstractFactory/abstractF/impl/ref_factory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/model/com/AbstractFactory/abstractFactoy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/model/com/AbstractFactory/abstractP/gayP/gayInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/model/com/AbstractFactory/abstractP/gayP/impl/gay1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/model/com/AbstractFactory/abstractP/gayP/impl/gay2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/model/com/AbstractFactory/abstractP/xiongP/impl/xiong1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/model/com/AbstractFactory/abstractP/xiongP/impl/xiong2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/model/com/AbstractFactory/abstractP/xiongP/xiongInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AbstractFactory/abstractFactory.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AbstractFactory/abstractFactory.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,24 +65,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/AbstractFactory/abstractFactory.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-column="38" />
+              <first_editor relative-caret-position="361">
+                <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+              <first_editor>
+                <caret column="14" selection-start-column="14" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -148,6 +161,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -170,8 +186,8 @@
         <option value="$PROJECT_DIR$/src/com/Main.java" />
         <option value="$PROJECT_DIR$/src/com/AbstractFactory/abstractFactoy.java" />
         <option value="$PROJECT_DIR$/src/com/abstractFactory.md" />
-        <option value="$PROJECT_DIR$/src/com/AbstractFactory/abstractFactory.md" />
         <option value="$PROJECT_DIR$/src/README.md" />
+        <option value="$PROJECT_DIR$/src/com/AbstractFactory/abstractFactory.md" />
       </list>
     </option>
   </component>
@@ -181,6 +197,7 @@
     <option name="width" value="1154" />
     <option name="height" value="1092" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -214,6 +231,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="AbstractFactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -277,16 +310,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563513144781</updated>
-      <workItem from="1563513154038" duration="4574000" />
+      <workItem from="1563513154038" duration="4839000" />
     </task>
+    <task id="LOCAL-00001" summary="抽象工厂 abstractFactory">
+      <created>1563517910724</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563517910724</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4574000" />
+    <option name="totallyTimeSpent" value="4839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -303,7 +343,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32934782" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -321,6 +361,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="抽象工厂 abstractFactory" />
+    <option name="LAST_COMMIT_MESSAGE" value="抽象工厂 abstractFactory" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/AbstractFactory/q.html">
@@ -427,16 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/AbstractFactory/abstractFactoy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/AbstractFactory/abstractP/xiongP/xiongInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -448,6 +482,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="14" selection-start-column="14" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -465,21 +509,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/AbstractFactory/abstractFactory.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-column="38" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/com/AbstractFactory/abstractFactoy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/README.md">
+    <entry file="file://$PROJECT_DIR$/src/com/AbstractFactory/abstractFactory.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <first_editor relative-caret-position="361">
+            <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
           </first_editor>
           <second_editor />
         </state>
